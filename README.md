@@ -203,9 +203,9 @@ break
 
 ## *Developers* 👨🏼‍💻👨🏻‍💻
 
-Developers do projeto:
+#### Developers do projeto:
 ---
-<img src="https://media.discordapp.net/attachments/821393692493479987/1239654076749451387/Group_15.png?ex=664506d3&is=6643b553&hm=2c761c6f62f3dea2d30ba41c42237bc85765be788db13127ddc6240dd3c3d216&=&format=webp&quality=lossless&width=343``&height=166"></a>
+<img src="https://media.discordapp.net/attachments/821393692493479987/1239654076749451387/Group_15.png?ex=664506d3&is=6643b553&hm=2c761c6f62f3dea2d30ba41c42237bc85765be788db13127ddc6240dd3c3d216&=&format=webp&quality=lossless&width=687&height=332"></a>
 
 ```
 Links do nosso GitHub👇🏻
