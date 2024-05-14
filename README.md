@@ -205,7 +205,7 @@ break
 
 Developers do projeto:
 ---
-<img src="https://media.discordapp.net/attachments/821393692493479987/1239654076749451387/Group_15.png?ex=6643b553&is=664263d3&hm=698fd31e684752e3be282043a0d018b7ee9c9e215a744ae8ae64a9ab105aa68f&=&format=webp&quality=lossless&width=343.5&height=166"></a>
+<img src="https://media.discordapp.net/attachments/821393692493479987/1239654076749451387/Group_15.png?ex=6643b553&is=664263d3&hm=698fd31e684752e3be282043a0d018b7ee9c9e215a744ae8ae64a9ab105aa68f&=&format=webp&quality=lossless&width=343&height=166"></a>
 
 ```
 Links do nosso GitHub👇🏻
